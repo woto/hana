@@ -4,7 +4,7 @@
 
 ## DESCRIPTION:
 
-Implementation of [JSON Patch][1] and [JSON Pointer][2] RFC.
+Implementation of [JSON Patch (RFC6902)][1] and [JSON Pointer (RFC6901)][2] RFC.
 
 ## FEATURES/PROBLEMS:
 
